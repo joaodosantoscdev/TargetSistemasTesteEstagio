@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TargetSistemasLPTeste - Exercício 5/1.0.0": {
+        "runtime": {
+          "TargetSistemasLPTeste - Exercício 5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TargetSistemasLPTeste - Exercício 5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

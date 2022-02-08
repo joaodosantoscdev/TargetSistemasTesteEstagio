@@ -1,0 +1,32 @@
+E:\Arquivos de Programação\backend\TargetSistemasLPTeste\TargetSistemasLPTeste\bin\Debug\net5.0\TargetSistemasLPTeste.exe
+E:\Arquivos de Programação\backend\TargetSistemasLPTeste\TargetSistemasLPTeste\bin\Debug\net5.0\TargetSistemasLPTeste.deps.json
+E:\Arquivos de Programação\backend\TargetSistemasLPTeste\TargetSistemasLPTeste\bin\Debug\net5.0\TargetSistemasLPTeste.runtimeconfig.json
+E:\Arquivos de Programação\backend\TargetSistemasLPTeste\TargetSistemasLPTeste\bin\Debug\net5.0\TargetSistemasLPTeste.runtimeconfig.dev.json
+E:\Arquivos de Programação\backend\TargetSistemasLPTeste\TargetSistemasLPTeste\bin\Debug\net5.0\TargetSistemasLPTeste.dll
+E:\Arquivos de Programação\backend\TargetSistemasLPTeste\TargetSistemasLPTeste\bin\Debug\net5.0\ref\TargetSistemasLPTeste.dll
+E:\Arquivos de Programação\backend\TargetSistemasLPTeste\TargetSistemasLPTeste\bin\Debug\net5.0\TargetSistemasLPTeste.pdb
+E:\Arquivos de Programação\backend\TargetSistemasLPTeste\TargetSistemasLPTeste\obj\Debug\net5.0\TargetSistemasLPTeste.csproj.AssemblyReference.cache
+E:\Arquivos de Programação\backend\TargetSistemasLPTeste\TargetSistemasLPTeste\obj\Debug\net5.0\TargetSistemasLPTeste.GeneratedMSBuildEditorConfig.editorconfig
+E:\Arquivos de Programação\backend\TargetSistemasLPTeste\TargetSistemasLPTeste\obj\Debug\net5.0\TargetSistemasLPTeste.AssemblyInfoInputs.cache
+E:\Arquivos de Programação\backend\TargetSistemasLPTeste\TargetSistemasLPTeste\obj\Debug\net5.0\TargetSistemasLPTeste.AssemblyInfo.cs
+E:\Arquivos de Programação\backend\TargetSistemasLPTeste\TargetSistemasLPTeste\obj\Debug\net5.0\TargetSistemasLPTeste.csproj.CoreCompileInputs.cache
+E:\Arquivos de Programação\backend\TargetSistemasLPTeste\TargetSistemasLPTeste\obj\Debug\net5.0\TargetSistemasLPTeste.dll
+E:\Arquivos de Programação\backend\TargetSistemasLPTeste\TargetSistemasLPTeste\obj\Debug\net5.0\ref\TargetSistemasLPTeste.dll
+E:\Arquivos de Programação\backend\TargetSistemasLPTeste\TargetSistemasLPTeste\obj\Debug\net5.0\TargetSistemasLPTeste.pdb
+E:\Arquivos de Programação\backend\TargetSistemasLPTeste\TargetSistemasLPTeste\obj\Debug\net5.0\TargetSistemasLPTeste.genruntimeconfig.cache
+E:\Arquivos de Programação\backend\TargetSistemasLPTeste - Exercício 2\TargetSistemasLPTeste\bin\Debug\net5.0\TargetSistemasLPTeste.exe
+E:\Arquivos de Programação\backend\TargetSistemasLPTeste - Exercício 2\TargetSistemasLPTeste\bin\Debug\net5.0\TargetSistemasLPTeste.deps.json
+E:\Arquivos de Programação\backend\TargetSistemasLPTeste - Exercício 2\TargetSistemasLPTeste\bin\Debug\net5.0\TargetSistemasLPTeste.runtimeconfig.json
+E:\Arquivos de Programação\backend\TargetSistemasLPTeste - Exercício 2\TargetSistemasLPTeste\bin\Debug\net5.0\TargetSistemasLPTeste.runtimeconfig.dev.json
+E:\Arquivos de Programação\backend\TargetSistemasLPTeste - Exercício 2\TargetSistemasLPTeste\bin\Debug\net5.0\TargetSistemasLPTeste.dll
+E:\Arquivos de Programação\backend\TargetSistemasLPTeste - Exercício 2\TargetSistemasLPTeste\bin\Debug\net5.0\ref\TargetSistemasLPTeste.dll
+E:\Arquivos de Programação\backend\TargetSistemasLPTeste - Exercício 2\TargetSistemasLPTeste\bin\Debug\net5.0\TargetSistemasLPTeste.pdb
+E:\Arquivos de Programação\backend\TargetSistemasLPTeste - Exercício 2\TargetSistemasLPTeste\obj\Debug\net5.0\TargetSistemasLPTeste.csproj.AssemblyReference.cache
+E:\Arquivos de Programação\backend\TargetSistemasLPTeste - Exercício 2\TargetSistemasLPTeste\obj\Debug\net5.0\TargetSistemasLPTeste.GeneratedMSBuildEditorConfig.editorconfig
+E:\Arquivos de Programação\backend\TargetSistemasLPTeste - Exercício 2\TargetSistemasLPTeste\obj\Debug\net5.0\TargetSistemasLPTeste.AssemblyInfoInputs.cache
+E:\Arquivos de Programação\backend\TargetSistemasLPTeste - Exercício 2\TargetSistemasLPTeste\obj\Debug\net5.0\TargetSistemasLPTeste.AssemblyInfo.cs
+E:\Arquivos de Programação\backend\TargetSistemasLPTeste - Exercício 2\TargetSistemasLPTeste\obj\Debug\net5.0\TargetSistemasLPTeste.csproj.CoreCompileInputs.cache
+E:\Arquivos de Programação\backend\TargetSistemasLPTeste - Exercício 2\TargetSistemasLPTeste\obj\Debug\net5.0\TargetSistemasLPTeste.dll
+E:\Arquivos de Programação\backend\TargetSistemasLPTeste - Exercício 2\TargetSistemasLPTeste\obj\Debug\net5.0\ref\TargetSistemasLPTeste.dll
+E:\Arquivos de Programação\backend\TargetSistemasLPTeste - Exercício 2\TargetSistemasLPTeste\obj\Debug\net5.0\TargetSistemasLPTeste.pdb
+E:\Arquivos de Programação\backend\TargetSistemasLPTeste - Exercício 2\TargetSistemasLPTeste\obj\Debug\net5.0\TargetSistemasLPTeste.genruntimeconfig.cache
